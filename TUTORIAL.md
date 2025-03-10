@@ -3,7 +3,7 @@
 This tutorial will walk you through how to use the application effectively to find qualified candidates for your technical roles.
 
 ## Step 1: Enter Your Job Description
-![image](https://github.com/user-attachments/assets/0674da29-8d62-4ca7-81ea-105f3f323f51)
+![image](https://github.com/user-attachments/assets/2d4e0907-1591-45af-83f4-d062901e1db7)
 
 
 1. Navigate to the main page
@@ -12,11 +12,11 @@ This tutorial will walk you through how to use the application effectively to fi
 4. Click the "Find Candidates" button to begin the search
 
 The app will begin briefly searching, and will look like this:
-![image](https://github.com/user-attachments/assets/cda13e5c-bfec-4d05-81a7-353ff680f42c)
+![image](https://github.com/user-attachments/assets/fd10f508-c4dc-4346-a558-e2179a862879)
 
 
 ## Step 2: Review Candidates
-<img width="441" alt="image" src="https://github.com/user-attachments/assets/aed0c6de-9115-4ee3-89fc-25dabd8b6b48" />
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/6f075c00-5eb1-432a-925e-a62516f8a0c1" />
 
 
 Each candidate card shows:
@@ -33,7 +33,7 @@ You can:
 - Swipe left or click ✗ to reject a candidate
 
 ## Step 3: Manage Accepted Candidates
-![Screenshot 2025-03-10 104621](https://github.com/user-attachments/assets/66924f50-6e60-4fab-a6b9-2bac96dd055b)
+![AcceptedCandidates](https://github.com/user-attachments/assets/f7d3222b-252e-4081-9df4-77ada86837ae)
 
 
 The "Accepted Candidates" section shows all candidates you've approved:
